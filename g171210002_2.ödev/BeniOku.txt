@@ -1,0 +1,3 @@
+Mingw'de sorun olduðundan kendi bilgisayarýmda derlendiði halde çýktý vermiyor. 
+Fakat arkadaþýmýn bilgisayar da hiçbir sýkýntý olmadan çalýþtý. Artýk þans.
+Ayrýca -1 deðeri null olarak kabul edilmiþtir. sayi.txt dosyasýnda -1 deðeri olmamalýdýr.
