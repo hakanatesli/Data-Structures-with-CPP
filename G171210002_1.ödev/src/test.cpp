@@ -1,10 +1,10 @@
 /**
 * @file  test
-* @description main fonksiyonu bulunmakta. işlemlerimiz burada gerçekleştiriliyor.
+* @description main fonksiyonu bulunmakta. iÃ¾lemlerimiz burada gerÃ§ekleÃ¾tiriliyor.
 * @course  1-B
-* @assignment  1.ödev
+* @assignment  1.Ã¶dev
 * @date  30.10.2018
-* @author  hakan ateşli g171210002@sakarya.edu.tr
+* @author  hakan ateÃ¾li g171210002@sakarya.edu.tr
 */
 #include "Yonetim.hpp"
 #include <iostream>
@@ -87,7 +87,7 @@ int main()
 			break;
 		}
 		else {
-			cout << "Tekrar seçim yapınız!!" << endl;
+			cout << "Tekrar seÃ§im yapiniz!!" << endl;
 			continue;
 		}
 		system("cls");
